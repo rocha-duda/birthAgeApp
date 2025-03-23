@@ -1,12 +1,24 @@
-# React + Vite
+# 🎂 Calculadora de Idade!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📖 Sobre o Projeto  
+A **Calculadora de Idade** é uma aplicação React que permite ao usuário calcular sua idade exata em anos, meses e dias a partir da data de nascimento informada.  
 
-Currently, two official plugins are available:
+Este projeto foi desenvolvido como parte de um trabalho acadêmico para a disciplina de **Desenvolvimento Full-Stack**, no curso de **Engenharia da Computação**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Tecnologias Utilizadas  
+Este projeto foi construído utilizando as seguintes tecnologias:  
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- ⚛️ **React.js** - Biblioteca JavaScript para construção de interfaces  
+- 🎯 **Date-fns** - Biblioteca para manipulação de datas  
+- 🎨 **CSS** - Estilização da aplicação  
+
+---
+
+🖥️ Funcionalidades
+✅ Inserir uma data de nascimento
+✅ Calcular idade exata em anos, meses e dias
+✅ Interface simples e responsiva
+
+
